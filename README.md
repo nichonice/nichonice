@@ -1,0 +1,2 @@
+# nichonice
+Idle Clicker
